@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm a machine learning researcher and computational physicist working at Johns Hopkins University. I'm interested in a variety of topics including:
+
+- Differentiable physics simulators
+- Solving partial differential equations with machine learning
+- Foundation models for science
+- Advanced statistical methods
+
+My publications can by found [inspire](https://inspirehep.net/authors/1614273?ui-citation-summary=true). Always happy to chat, feel free to reach out!
+
 <!--
 **tedwards2412/tedwards2412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
