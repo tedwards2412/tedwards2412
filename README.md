@@ -9,10 +9,11 @@ I'm a machine learning researcher and computational physicist working at Johns H
 
 My publications can by found [inspire](https://inspirehep.net/authors/1614273?ui-citation-summary=true). Always happy to chat, feel free to reach out!
 
-![Thomas' Stats](https://github-readme-stats.vercel.app/api?username=tedwards2412&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
 
 <!--
 **tedwards2412/tedwards2412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Thomas' Stats](https://github-readme-stats.vercel.app/api?username=tedwards2412&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
 
 Here are some ideas to get you started:
 
