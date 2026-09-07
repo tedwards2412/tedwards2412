@@ -1,28 +1,9 @@
 ### Hi there 👋
 
-I'm a machine learning researcher and computational physicist working at Johns Hopkins University. I'm interested in a variety of topics including:
+Research scientist and founder building AI at the intersection of machine learning, statistics, and computational science. I have 10+ years of experience developing ML and statistical methods, building high-performance software, and leading technical research. My work spans Bayesian decision-making, large-scale time-series models, GPU computing, and scientific AI — from fundamental methodology through to real-world deployment.
 
-- Differentiable physics simulators
-- Solving partial differential equations with machine learning
-- Foundation models for science
-- Advanced statistical methods
+I’m particularly interested in ambitious applications of AI where strong technical foundations can translate into real-world impact.
+
+Contact: tedwards2412@gmail.com
 
 My publications can by found [inspire](https://inspirehep.net/authors/1614273?ui-citation-summary=true). Always happy to chat, feel free to reach out!
-
-
-<!--
-**tedwards2412/tedwards2412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Thomas' Stats](https://github-readme-stats.vercel.app/api?username=tedwards2412&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
